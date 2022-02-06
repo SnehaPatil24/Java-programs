@@ -1,3 +1,4 @@
+\\constant demo
 package demo;
 
 public class Constants {
